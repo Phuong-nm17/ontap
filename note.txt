@@ -1,0 +1,7 @@
+### Cấu trúc thư mục
+    - controllers : chứa các controller xử lý phần logic
+    - models : Chứa các hàm tương tác với DB
+    - views : Chứa các phần hiển thị cho người dùng như html
+    - index.php
+    - config.php : Nơi khai báo các tham số dùng cho toàn hệ thống
+    - uploads // Folder lưu trữ file upload
